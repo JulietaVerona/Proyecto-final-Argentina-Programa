@@ -1,0 +1,56 @@
+h1  {
+    color:rgb(6, 6, 173)
+}
+
+#nombre{
+    position: relative;
+    bottom: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.texto
+{
+    position: relative;
+    right: 20px;
+}
+
+.insta {
+    position: relative;
+
+}
+
+h2 {
+    color:rgb(0, 60, 255)
+}
+
+h3 {
+    color:rgb(31, 127, 224)
+}
+
+h4 {
+    color:rgb(50, 181, 232)
+}
+
+img {
+    position: relative;
+    left: 190px;
+    top: 60px;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    position: relative;
+    display:flow-root;
+    left: 130px;
+    bottom: 10px;
+    background-image: url("../../background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; 
+    width: 100%;
+    min-height: 100vh;
+
+
+    background-image: url("http://www.freeimageslive.com/galleries/ideas/concept/pics/blank_paper.jpg")
+}
